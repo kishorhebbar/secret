@@ -1,2 +1,2 @@
 # config.py
-GITHUB_TOKEN=ghp_abcdefghijklmnopqrstuvwxyz123456
+GITHUB_TOKEN=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
