@@ -1,5 +1,5 @@
 # config.py
-GITHUB_TOKEN=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
+GITHUB_TOKEN=
 
 aws_access_key = "AKIA1234567890EXAMPLE"
 aws_secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
